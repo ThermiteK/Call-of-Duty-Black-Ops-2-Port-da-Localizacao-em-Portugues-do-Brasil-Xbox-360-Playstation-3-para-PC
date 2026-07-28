@@ -187,6 +187,11 @@ Pelo excelente trabalho realizado na dublagem oficial em Português do Brasil de
 
 ---
 
+### Trailer do Port da Localização no YouTube
+(https://www.youtube.com/watch?v=2e8xMAU6xn4)
+
+---
+
 # Aviso
 
 Este projeto é uma iniciativa independente de preservação.
