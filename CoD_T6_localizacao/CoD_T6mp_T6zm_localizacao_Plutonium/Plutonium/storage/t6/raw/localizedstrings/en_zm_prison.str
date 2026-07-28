@@ -1,0 +1,154 @@
+// Dumped from fastfile "en_zm_prison".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_PRISON_TOMAHAWK_PICKUP
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar o Inferno de Mão."
+
+REFERENCE           ZM_PRISON_CRAFT_PLANE
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para construir um Avião."
+
+REFERENCE           ZM_PRISON_CRAFT_PACKASPLAT
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para criar uma melhoria para a Blundergat."
+
+REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
+LANG_ENGLISH        "A Gôndola está ativa."
+
+REFERENCE           ZM_PRISON_FAN_TRAP
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para ativar a armadilha de ventilador. [Custo: &&1]"
+
+REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
+LANG_ENGLISH        "Aperte ^3[{+activate}]^7 para ativar a Máquina de Lavar."
+
+REFERENCE           ZM_PRISON_CRAFT_RIOT
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para construir Escudo Zumbi."
+
+REFERENCE           ZM_PRISON_SQ_BG
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar Blundergat"
+
+REFERENCE           ZM_PRISON_REFUEL_PLANE
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para reabastecer o Avião."
+
+REFERENCE           ZM_PRISON_WEAPON_THOMPSON
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para comprar arma Tommy. [Custo: &&1]"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_OVERLOAD
+LANG_ENGLISH        "Descarga para sobrecarregar"
+
+REFERENCE           ZM_PRISON_CRAFTING_PLANE
+LANG_ENGLISH        "Parte adicionada ao Avião."
+
+REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar a Redentora Infernal."
+
+REFERENCE           ZM_PRISON_REFUELING_PLANE
+LANG_ENGLISH        "Avião abastecido."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO
+LANG_ENGLISH        "Aperte ^3[{+attack}]^7 para dar choque."
+
+REFERENCE           ZM_PRISON_PLANE_BOARD
+LANG_ENGLISH        "Aperte ^3[{+activate}]^7 para embarcar no avião."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO_2
+LANG_ENGLISH        "Aperte ^3[{+gostand}]^7 para levitar."
+
+REFERENCE           ZM_PRISON_CALL_GONDOLA
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para chamar a gôndola."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_KILL
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para entrar no Além."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_INTERACT
+LANG_ENGLISH        "Dê um choque para ligar a energia"
+
+REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
+LANG_ENGLISH        "É preciso a chave do Superintendente"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_DOOR
+LANG_ENGLISH        "As portas precisam de energia"
+
+REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
+LANG_ENGLISH        "Armadilha de ácido indisponível"
+
+REFERENCE           ZM_PRISON_CONVERT_START
+LANG_ENGLISH        "Segure [{+activate}] para converter a Blundergat em uma Acidgat."
+
+REFERENCE           ZM_PRISON_CONVERT_PICKUP
+LANG_ENGLISH        "Segure [{+activate}] para pegar sua arma convertida."
+
+REFERENCE           ZM_PRISON_PERK_CHERRY
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para comprar Cereja Elétrica. [Custo: &&1]"
+
+REFERENCE           ZM_PRISON_BAD
+LANG_ENGLISH        "O CICLO CONTINUA..."
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
+LANG_ENGLISH        "Aperte ^3[{+attack}]^7 para usar Escudo."
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
+LANG_ENGLISH        "Aperte ^3[{+melee}]^7 para atacar com Escudo."
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_ENGLISH        "Aperte [{+actionslot 1}] ou [{+actionslot 2}] para mudar de item."
+
+REFERENCE           ZM_PRISON_TOMAHAWK_TUTORIAL
+LANG_ENGLISH        "Aperte ^3[{+smoke}]^7 para jogar o Inferno."
+
+REFERENCE           ZM_PRISON_SHIELD
+LANG_ENGLISH        "Escudo"
+
+REFERENCE           ZM_PRISON_GOOD
+LANG_ENGLISH        "O CICLO ACABOU."
+
+REFERENCE           ZM_PRISON_ACID_GAT_KIT
+LANG_ENGLISH        "Kit Acidgat"
+
+REFERENCE           ZM_PRISON_PLANE_PARTS
+LANG_ENGLISH        "Partes de Avião"
+
+REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
+LANG_ENGLISH        "Aperte ^3[{+activate}]^7 para ativar a Cadeira Elétrica."
+
+REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
+LANG_ENGLISH        "Aperte ^3[{+activate}]^7 para iniciar decolagem."
+
+REFERENCE           ZM_PRISON_KEY_DOOR
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para abrir."
+
+REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
+LANG_ENGLISH        "Armadilha de ventilador indisponível"
+
+REFERENCE           ZM_PRISON_ACID_TRAP
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para ativar a armadilha de ácido. [Custo: &&1]"
+
+REFERENCE           ZM_PRISON_TOWER_TRAP
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para ativar a armadilha da torre. [Custo: &&1]"
+
+REFERENCE           ZM_PRISON_MOVE_GONDOLA
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para usar gôndola. [Custo: &&1]"
+
+REFERENCE           ZM_PRISON_GONDOLA_REQUIRES_POWER
+LANG_ENGLISH        "A gôndola precisa de energia"
+
+REFERENCE           ZM_PRISON_GONDOLA_COOLDOWN
+LANG_ENGLISH        "A Gôndola está recarregando"
+
+REFERENCE           ZM_PRISON_SQ_BS
+LANG_ENGLISH        "Segure ^3[{+activate}]^7 para pegar Acidgat"
+
+REFERENCE           ZM_PRISON_MISSING_BLUNDERGAT
+LANG_ENGLISH        "Precisa-se da Blundergat"
+
+REFERENCE           ZM_PRISON_OUT_OF_LIVES
+LANG_ENGLISH        "Sem vida(s) após a morte restante(s)."
+
+REFERENCE           ZM_PRISON_LIFE_OVER
+LANG_ENGLISH        "SEM VIDA"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_ENGLISH        "Já está carregando um."
+
+ENDMARKER
