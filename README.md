@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Call of Duty: Black Ops II — Port da Localização Oficial em Português do Brasil (PC)">
-</p>
-
-<p align="center">
   <img src="assets/banner.png" alt="Call of Duty: Black Ops II — Localização Oficial em Português do Brasil">
 </p>
 
