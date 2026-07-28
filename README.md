@@ -1,4 +1,4 @@
-# Call of Duty: Black Ops II — Localização Oficial em Português do Brasil (PC)
+# Call of Duty: Black Ops II — Port da Localização Oficial em Português do Brasil (PC)
 
 ## Sobre o meu projeto
 
@@ -76,6 +76,21 @@ Já o modo Campanha utiliza arquivos compilados que substituem parte do conteúd
 Como ambos os launchers utilizam métodos diferentes de carregamento, manter duas instalações separadas evita conflitos e garante o funcionamento correto de todos os modos de jogo.
 
 ---
+
+## Observação sobre a aba Solo do modo Zumbis
+
+Para oferecer uma experiência totalmente localizada no modo Zumbis, este projeto inclui um mod complementar chamado bp_solo_patch_loc.
+
+Por uma particularidade do funcionamento do Plutonium, a tela Solo obtém parte de seus textos a partir de uma fonte diferente daquela utilizada pelo restante da interface. Como consequência, algumas descrições de mapas e modos de jogo permanecem em inglês mesmo com a localização instalada.
+
+O bp_solo_patch_loc corrige esse comportamento, fazendo com que a tela utilize os textos já presentes na localização do jogo e mantenha a interface totalmente em Português do Brasil.
+
+A utilização deste mod é opcional. O jogo funciona normalmente sem ele e nenhuma funcionalidade é afetada. Ele é recomendado apenas para quem deseja que a interface do modo Solo permaneça completamente localizada.
+
+Como o Plutonium exige que esse tipo de mod seja carregado manualmente, será necessário selecioná-lo sempre que desejar utilizar a versão localizada da tela Solo.
+
+---
+
 
 # O que este projeto inclui
 
