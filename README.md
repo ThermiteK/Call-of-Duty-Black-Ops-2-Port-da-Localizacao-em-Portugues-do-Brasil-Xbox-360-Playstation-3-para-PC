@@ -24,7 +24,7 @@ O Multiplayer e o Modo Zumbis utilizam o **Plutonium**.
 Para utilizar esta localização é necessário:
 
 1. Possuir uma cópia legítima do jogo no Steam.
-2. Criar uma conta no fórum do Plutonium.
+2. Criar uma conta no fórum do Plutonium. (https://plutonium.pw/)
 3. Instalar e executar o jogo através do Launcher do Plutonium.
 4. Copiar as pastas fornecidas deste projeto para:
 
@@ -159,23 +159,23 @@ Este projeto só foi possível graças ao trabalho da comunidade.
 
 Agradecimentos especiais a:
 
-### Jan Laupetin
+### Jan Laupetin (https://github.com/Laupetin)
 
 Pela criação do O.A.T. (Open Asset Tool), ferramenta fundamental para a compilação dos arquivos utilizados neste projeto.
 
-### Rattpak
+### Rattpak (https://github.com/Rattpak)
 
 Pelo desenvolvimento do **T6SP-Mod**, tornando possível a execução das modificações no modo Campanha.
 
-### Equipe Plutonium
+### Equipe Plutonium (https://plutonium.pw/)
 
 Por disponibilizar uma plataforma moderna, segura e compatível com modificações para o Multijogador e o Modo Zumbis.
 
-### Non Decet
+### Non Decet (https://steamcommunity.com/id/nondecet)
 
 Responsável pelos testes completos do projeto, validação da experiência do usuário e fornecimento de feedback durante o desenvolvimento.
 
-### Sérgio Moreno Filmes
+### Sérgio Moreno Filmes (https://br.linkedin.com/company/sergio-moreno-filmes)
 
 Pelo excelente trabalho realizado na dublagem oficial em Português do Brasil de **Call of Duty: Black Ops II**, utilizada como base para a produção das legendas deste projeto.
 
