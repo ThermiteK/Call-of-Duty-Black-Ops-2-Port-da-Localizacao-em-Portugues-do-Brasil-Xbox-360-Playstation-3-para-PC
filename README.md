@@ -25,7 +25,7 @@ O foco deste trabalho é a preservação. Todo o conteúdo localizado foi portad
 
 ## Multijogador e Modo Zumbis
 
-O Multiplayer e o Modo Zumbis utilizam o **Plutonium**.
+O Multijogador e o Modo Zumbis utilizam o **Plutonium**.
 
 Para utilizar esta localização é necessário:
 
@@ -63,9 +63,10 @@ Devem ser copiadas as pastas:
 * `spmod`
 * `zone`
 
-Dentro da pasta `launcher` contém o executável T6SP-Mod.exe junto com o arquivo t6sp-mod.dll ambos devem ser copiados para a pasta raiz da instalação dedicada da Campanha.
+e os arquivos:
 
-* `launcher`
+* `T6SP-Mod.exe`
+* `t6sp-mod.dll`
 
 Após isso, execute o jogo através do launcher incluído no projeto.
 
@@ -73,7 +74,7 @@ Após isso, execute o jogo através do launcher incluído no projeto.
 
 ## Por que são necessárias duas instalações?
 
-O Multiplayer/Zumbis e a Campanha utilizam métodos diferentes para carregar modificações.
+O Multijogador/Zumbis e a Campanha utilizam métodos diferentes para carregar modificações.
 
 O Plutonium trabalha com arquivos carregados dinamicamente e não requer a substituição dos arquivos originais do jogo.
 
@@ -140,7 +141,7 @@ Além dos textos, diversas texturas do jogo contêm informações incorporadas d
 
 Esses elementos também foram portados para a versão de PC, preservando a apresentação oficial existente nos consoles.
 
-Isso inclui conteúdos presentes na Campanha e em diferentes modos do Multiplayer, garantindo uma localização consistente em toda a interface do jogo.
+Isso inclui conteúdos presentes na Campanha e em diferentes modos do Multijogador, garantindo uma localização consistente em toda a interface do jogo.
 
 ---
 
@@ -148,7 +149,7 @@ Isso inclui conteúdos presentes na Campanha e em diferentes modos do Multiplaye
 
 Este projeto utiliza dois launchers diferentes:
 
-* **Plutonium**, responsável pelo Multiplayer e pelo Modo Zumbis;
+* **Plutonium**, responsável pelo Multijogador e pelo Modo Zumbis;
 * **T6SP-Mod**, responsável pela Campanha.
 
 Essa divisão existe porque o Plutonium não oferece suporte ao modo Campanha.
